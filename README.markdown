@@ -35,7 +35,7 @@ Handle Missing values with different approches using **Python**
 
 ### 2-Dashboard
 Build Intractive dashboard for analysis using **Power BI** 
-![Employees Dashboard](images/employees_dashboard.png)
+![Employees Dashboard](https://github.com/HazemMedhat/Road-Accident-Analysis-/blob/ecacd28d6a32e593b1444e35e7ae0f5cb569da1f/Dashboard%20.png)
 
 
 ## Results
